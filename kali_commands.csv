@@ -1,0 +1,69 @@
+command,description,type
+sqlsus,SQL injection vulnerability scanner,package
+owasp-zap,Web application security testing,package
+wifite,Wireless network auditing,package
+sqliv,SQL injection vulnerability scanner,package
+snort,Intrusion detection and prevention system,package
+lynis,System and security auditing,package
+openvas,Vulnerability scanning and management,package
+amass,Attack surface mapping,package
+gobuster,Directory and file brute-forcing,package
+bettercap,Man-in-the-middle attack framework,package
+exploitdb,Exploit database search,package
+sucrack,Password cracking tool,package
+webshag,Web application assessment tool,package
+thc-hydra,Online password cracking,package
+owtf,Offensive web testing framework,package
+t50,Stress testing tool,package
+dmitry,Deepmagic information gathering tool,package
+nbtscan,NetBIOS scanner,package
+sipvicious,SIP hacking toolkit,package
+beleth,Active Directory auditing tool,package
+chaosmap,Network mapping and discovery,package
+wifiphisher,Phishing attacks on Wi-Fi networks,package
+mitm6,IPv6 Man-in-the-middle attacks,package
+medusa,Brute-force attack tool,package
+weevely,Weaponized web shell,package
+wifijammer,Jam Wi-Fi networks,package
+snmpcheck,SNMP enumeration and penetration testing,package
+pth-wmic,Pass-the-hash using WMI,package
+smbmap,SMB enumeration and mapping,package
+ssh-audit,SSH server auditing,package
+brutespray,Brute-force attacks on services,package
+feroxbuster,Web content scanner and directory brute-forcer,package
+autorecon,Multi-threaded network reconnaissance,package
+exploitdb-search,Search the Exploit Database,package
+unicornscan,TCP and UDP port scanner,package
+arp-scan,ARP scanning and discovery,package
+beef-xss,Browser exploitation framework,package
+crackmapexec,Active Directory exploitation,package
+dirbuster,Web application directory brute-forcing,package
+dnsenum,DNS enumeration and information gathering,package
+dnswalk,DNS data analysis and debugging,package
+enum4linux,Windows and Samba enumeration,package
+fimap,Web application penetration testing,package
+golismero,Web application security testing,package
+httrack,Website mirroring and offline browsing,package
+httprint,Web server fingerprinting,package
+hydra,Network login cracker,package
+john,Password cracking tool,package
+knockpy,Subdomain enumeration and fingerprinting,package
+metagoofil,Metadata gathering from online sources,package
+netdiscover,Active/passive network address scanner,package
+nikto,Web server vulnerability scanner,package
+nmap,Network scanning and host discovery,package
+pdf-parser,PDF analysis and extraction,package
+recon-ng,Web reconnaissance framework,package
+setoolkit,Social engineering toolkit,package
+sqlmap,SQL injection and database takeover,package
+sslscan,SSL/TLS vulnerability scanner,package
+sslyze,SSL/TLS analysis and vulnerability scanner,package
+wpscan,WordPress vulnerability scanner,package
+xsser,Cross-site scripting (XSS) exploitation,package
+yersinia,Layer 2 vulnerability analysis tool,package
+beef-xss,Browser exploitation framework,package
+maltego,Open-source intelligence and forensics tool,package
+enumIAX,Enumerate and exploit VoIP services,package
+enum4linux-ng,Windows/Samba/Active Directory enumeration,package
+cewl,Custom wordlist generator,package
+burp-suite,Web application security testing,package
