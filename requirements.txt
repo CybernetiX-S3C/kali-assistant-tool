@@ -8,3 +8,11 @@ torch
 requests
 beautifulsoup4
 flask
+csv
+subprocess
+pyttsx3
+speechrecognition
+datetime
+random
+webbrowser
+
