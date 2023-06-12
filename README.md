@@ -40,13 +40,13 @@ To get started with the Kali Assistant Tool, follow these steps:
 
 ## Contributing
 
-Contributions are welcome! If you want to contribute to the Kali Assistant Tool, please follow these guidelines:
+ are welcome! If you want to contribute to the Kali Assistant Tool, please follow these guidelines:
 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
 3. Make your changes and commit them with descriptive commit messages.
 4. Push your changes to your forked repository.
-5. Open a pull request, describing your changes and their purpose.
+
 
 ## License
 
