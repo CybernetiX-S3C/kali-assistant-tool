@@ -1,6 +1,3 @@
-
-
-```markdown
 # Kali Assistant Tool
 
 Kali Assistant Tool is a Python script that acts as a virtual assistant for Kali Linux. It allows you to execute system commands, perform package installations, interact with the web, and more, using voice commands or text input.
